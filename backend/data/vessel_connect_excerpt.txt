@@ -1,0 +1,17 @@
+Vessel Connect brochure excerpt
+
+The Vessel Connect workflow starts from nomination creation where vessel, port, and ETA are captured for operational visibility. Readiness updates are required before downstream execution can proceed.
+
+Scheduling updates assign jetty and ETA windows to operational tasks. Any schedule change should create or update a corresponding calendar event to maintain terminal coordination.
+
+===PAGE===
+
+After nomination setup, operators link CQ/COQ references. Signing can be completed electronically by authorized users, and status updates must be traceable.
+
+Secure messaging is available per nomination for audit and collaboration between operations and compliance teams.
+
+===PAGE===
+
+The job calendar is the single planning view for scheduled operations. Each nomination schedule change should be reflected as an event and should be queryable by nomination ID.
+
+Governance requirements include audit logs, prompt versioning, retrieval citation visibility, and explicit human approval before applying AI-generated code patches.
